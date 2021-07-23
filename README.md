@@ -1,6 +1,6 @@
 # Subscription_Retention_Analysis
 
-Given demographic information about subscribers and the time at which they unsubscribed, build a model to predict the user retention rate. Based on the prediction, estimate the customer LTV and identity the best price point for subscription programs in different countries. Analyze the impact of different marketing channel on the revenue.
+Given demographic information about subscribers and the time at which they unsubscribed, build a model to predict the user retention rate. Based on the prediction, estimate the customer LTV and identity the best price point for subscription programs in different countries and from different marketing channel. 
 
 # Data 
 - user_id : the id of the user
